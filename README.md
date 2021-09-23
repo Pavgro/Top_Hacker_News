@@ -1,6 +1,6 @@
 # Top_Hacker_News
 
-This python made script shows top voted news basic version votes>99 from hackernews.
+This python made script shows top voted news basic version votes>100 from hackernews.
 
 ## Installation
 ##### First of all use
