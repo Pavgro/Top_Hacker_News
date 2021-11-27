@@ -5,7 +5,7 @@ This python made script shows top voted news basic version votes>100 from hacker
 ## Installation
 ##### First of all use
 
-`pip install requirements.txt`
+`pip install -r requirements.txt`
 
 ##### Run
 
