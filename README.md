@@ -9,7 +9,7 @@ This python made script shows top voted news basic version votes>100 from hacker
 
 ##### Run
 
-`python coolnews.py`
+`python topnews.py`
 
 ***
 
