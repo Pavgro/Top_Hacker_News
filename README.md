@@ -13,6 +13,6 @@ This python made script shows top voted news basic version votes>100 from hacker
 
 ***
 
-If you want news of more then desired number of votes you can edit
+If you want news of more than desired number of votes you can edit
 
 `Line 29.  if points > 100:`
